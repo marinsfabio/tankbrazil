@@ -8,8 +8,15 @@ body {
 }
 
 .header {
-  max-width: 1280px;
+  max-width: 1366px;
   margin: auto;
+  padding: 0 4rem;
+
+  background: #35804a;
+}
+
+.logo {
+  
 }
 
 .box {
